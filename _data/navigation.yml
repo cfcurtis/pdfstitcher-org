@@ -1,0 +1,30 @@
+# main links
+main:
+  - title: "Documentation"
+    url: /docs/download/
+  # - title: "Blog"
+  #   url: /blog/
+  - title: "About"
+    url: /about/
+
+# documentation
+docs:
+- title: "Documentation"
+- title: "Getting Started"
+  children:
+    - title: "Download"
+      url: /docs/download/
+    - title: "Video Tutorial"
+      url: /docs/video-tutorial/
+    # - title: "Page Tiling"
+    #   url: /docs/page-tiling/
+    # - title: "Working with Layers"
+    #   url: /docs/layers
+- title: "Contributing"
+  url: /docs/contribute/
+
+# blog sidebar
+# blog-sidebar:
+#   - title: "Categories"
+#     url: /categories/
+  

@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Windows"
       url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/pdfstitcher.exe"
     - label: "<i class='fas fa-download'></i> Mac"
-      url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/pdfstitcher.app.zip"
+      url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/PDFStitcher-Installer.dmg"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
   <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.4</a></small>

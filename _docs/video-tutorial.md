@@ -1,5 +1,5 @@
 ---
-permalink: /docs/video-tutorial/
+permalink: /docs/video-tutorial
 title: "Video Tutorial"
 last_modified_at: 2021-04-04
 ---

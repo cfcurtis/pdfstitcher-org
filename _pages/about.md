@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about
 title: "About PDFStitcher"
 hidden: false
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-permalink: /docs/contribute/
+permalink: /docs/contribute
 title: "Contribute to PDFStitcher"
 last_modified_at: 2021-04-04
 ---

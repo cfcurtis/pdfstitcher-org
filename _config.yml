@@ -148,7 +148,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - blog
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -174,6 +173,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _assets
 keep_files:
   - .git
   - .svn

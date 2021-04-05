@@ -9,17 +9,22 @@ main:
 
 # documentation
 docs:
-- title: "Documentation"
 - title: "Getting Started"
   children:
     - title: "Download"
       url: /docs/download
     - title: "Video Tutorial"
       url: /docs/video-tutorial
-    # - title: "Page Tiling"
-    #   url: /docs/page-tiling
-    # - title: "Working with Layers"
-    #   url: /docs/layers
+- title: "Documentation"
+  children:
+    - title: "Program Overview"
+      url: /docs/overview
+    - title: "Global Options"
+      url: /docs/options
+    - title: "Page Tiling"
+      url: /docs/page-tiling
+    - title: "Working with Layers"
+      url: /docs/layers
 - title: "Contributing"
   url: /docs/contribute
 

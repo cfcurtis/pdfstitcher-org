@@ -1,9 +1,9 @@
 ---
 permalink: /docs/download
-title: Download
+title: "Download"
+last_modified_at: 2021-04-04
 redirect_from:
   - /docs/
-last_modified_at: 2021-04-04
 ---
 
 PDFStitcher is written in Python and bundled into executables for Windows and Mac. It does not need to be installed; just download and run.

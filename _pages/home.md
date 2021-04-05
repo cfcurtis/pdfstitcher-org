@@ -16,8 +16,8 @@ excerpt: >
 feature_row:
   - title: Welcome to pdfstitcher.org
     excerpt: We've got a website! Right now this just serves as a landing page to download PDFStitcher, but check back for more documentation and tips in the future.
-  - title: <a href="/docs/video-tutorial/"><img src="/assets/images/tutorial.jpg" alt="video tutorial" /></a>
-    excerpt: "Check out the video tutorial!"
+  - title: <a href="/docs/video-tutorial/"><img src="/assets/images/tutorial.png" alt="video tutorial" /></a>
+    excerpt: "Video tutorials in English or German!"
     btn_class: ""
     btn_label: ""
   - title: <a href="/contribute/"><i class="fas fa-hands-helping fa-5x"></i></a>

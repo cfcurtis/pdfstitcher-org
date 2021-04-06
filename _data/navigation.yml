@@ -2,6 +2,8 @@
 main:
   - title: "Documentation"
     url: /docs/download
+  - title: "Helpful Links"
+    url: /links
   # - title: "Blog"
   #   url: /blog/
   - title: "About"
@@ -15,16 +17,18 @@ docs:
       url: /docs/download
     - title: "Video Tutorial"
       url: /docs/video-tutorial
-- title: "Documentation"
-  children:
-    - title: "Program Overview"
-      url: /docs/overview
-    - title: "Global Options"
-      url: /docs/options
-    - title: "Page Tiling"
-      url: /docs/page-tiling
-    - title: "Working with Layers"
-      url: /docs/layers
+# - title: "Documentation"
+#   children:
+#     - title: "Program Overview"
+#       url: /docs/overview
+#     - title: "Global Options"
+#       url: /docs/options
+#     - title: "Page Tiling"
+#       url: /docs/page-tiling
+#     - title: "Working with Layers"
+#       url: /docs/layers
+#     - title: "Examples"
+#       url: /docs/examples
 - title: "Contributing"
   url: /docs/contribute
 

@@ -4,7 +4,7 @@ title: "About PDFStitcher"
 hidden: false
 author_profile: true
 last_modified_at: 2021-04-04
-toc: true
+toc: false
 ---
 
 PDFStitcher was developed in late 2020 to help sewists convert print-at-home PDF sewing patterns into a single large file suitable for use with a projector. Just like printing and taping together a paper pattern, PDFStitcher takes the specified page range, amount to trim from each page, and number of rows or columns and assembles the pages together to form a complete pattern. 

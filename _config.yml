@@ -288,7 +288,6 @@ defaults:
       comments: # true
       share: false
       related: true
-      # analytics: true
   # _pages
   - scope:
       path: "_pages"
@@ -299,7 +298,6 @@ defaults:
       comments: false
       read_time: false
       share: false
-      # analytics: true
   # _docs
   - scope:
       path: ""
@@ -313,4 +311,3 @@ defaults:
       toc: true
       sidebar:
         nav: "docs"
-      # analytics: true

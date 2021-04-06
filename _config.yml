@@ -90,7 +90,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-YE0RTY6M4X
+    tracking_id          : "G-YE0RTY6M4X"
     anonymize_ip         : # true, false (default)
 
 
@@ -288,6 +288,7 @@ defaults:
       comments: # true
       share: false
       related: true
+      # analytics: true
   # _pages
   - scope:
       path: "_pages"
@@ -298,6 +299,7 @@ defaults:
       comments: false
       read_time: false
       share: false
+      # analytics: true
   # _docs
   - scope:
       path: ""
@@ -311,3 +313,4 @@ defaults:
       toc: true
       sidebar:
         nav: "docs"
+      # analytics: true

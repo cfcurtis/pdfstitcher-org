@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -22,7 +22,7 @@ subtitle                 : "" # site tagline that appears below site title in ma
 name                     : "Charlotte Curtis"
 description              : "The open source PDF stitching software for sewists, by sewists."
 url                      : "https://www.pdfstitcher.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : cfcurtis/pdfstitcher # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 latest-windows           : "https://github.com/cfcurtis/sewingutils/releases/latest/download/pdfstitcher.exe"
 latest-mac               : "https://github.com/cfcurtis/sewingutils/releases/latest/download/PDFStitcher-Installer.dmg"
@@ -182,8 +182,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /blog/page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /blog/page:num/
 timezone: "Canada/Mountain" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Conversion
@@ -278,7 +278,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       show_date: true
@@ -300,7 +300,7 @@ defaults:
       share: false
   # _docs
   - scope:
-      path: ""
+      path: "_docs"
       type: docs
     values:
       layout: single

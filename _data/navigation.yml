@@ -30,7 +30,11 @@ docs:
 #     - title: "Examples"
 #       url: /docs/examples
 - title: "Contributing"
-  url: /docs/contribute
+  children:
+    - title: "Contribute to PDFStitcher"
+      url: /docs/contribute
+    - title: "Translations"
+      url: /docs/translate
 
 # blog sidebar
 # blog-sidebar:

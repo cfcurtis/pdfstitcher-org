@@ -1,8 +1,7 @@
 ---
 permalink: /docs/overview
 title: "Program Overview"
-published: false
-last_modified_at: 2021-04-05
+last_modified_at: 2021-04-10
 ---
 
 When you first launch PDFStitcher, a window with 3 tabs will pop up. This page summarizes each, while the following pages of documentation go into detail for each one.

@@ -13,10 +13,13 @@ header:
       url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/PDFStitcher-Installer.dmg"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
-  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.4</a></small>
+  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.4.1</a></small>
 feature_row:
-  - title: Welcome to pdfstitcher.org
-    excerpt: We've got a website! Right now this just serves as a landing page to download PDFStitcher, but check back for more documentation and tips in the future.
+  - title: Latest News
+    excerpt: Version 0.4.1 has been released with updated translations.
+    url: "/updated-translations/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - title: <a href="/docs/video-tutorial/"><img src="/assets/images/tutorial.png" alt="video tutorial" /></a>
     excerpt: "Video tutorials in English or German!"
     btn_class: ""

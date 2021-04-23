@@ -4,8 +4,8 @@ main:
     url: /docs/download
   - title: "Helpful Links"
     url: /links
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Blog"
+    url: /blog/
   - title: "About"
     url: /about
 

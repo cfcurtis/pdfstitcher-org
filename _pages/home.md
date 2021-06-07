@@ -5,6 +5,7 @@ hidden: true
 header:
   overlay_filter: linear-gradient(0deg, rgba(0,0,0,0.3),rgba(0,0,0,0.8) 50%)
   overlay_image: "assets/images/header.png"
+  og_image: "/android-chrome-512x512.png"
   actions:
     - label: "<i class='fas fa-download'></i> Windows"
       url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/pdfstitcher.exe"

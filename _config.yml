@@ -39,7 +39,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                : 745272759466856
+    appid                : "745272759466856"
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
@@ -78,7 +78,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/icon-88.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/og_aspect_icon.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

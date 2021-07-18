@@ -15,8 +15,9 @@ excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
   <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.4.1</a></small>
 feature_row:
-  - title: Latest News
-    excerpt: "PDFStitcher v0.5 beta is available for testing!"
+  - title: News
+    excerpt: "*July 18, 2021*<br>
+    PDFStitcher v0.5 beta is available for testing!"
     url: "/v0.5-beta/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

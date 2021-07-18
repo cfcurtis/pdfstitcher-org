@@ -1,7 +1,7 @@
 ---
 permalink: /docs/translate
 title: "Translations"
-last_modified_at: 2021-04-10
+last_modified_at: 2021-07-18
 ---
 
 ## Overview
@@ -16,7 +16,7 @@ PDFStitcher uses [GNU gettext](https://docs.python.org/3/library/gettext.html) f
 PDFStitcher will read your system language and display the correct translation accordingly, if it is supported. If not, consider [adding one](#adding-a-new-translation).
 
 ## Editing an existing translation file
-There are two ways to edit .po files. The easiest way to edit them is [Poedit](https://poedit.net), but if you don't want to install new software you can also just edit the text file directly.
+There are two ways to edit .po files. The easiest and preferred way to edit them is [Poedit](https://poedit.net), but if you don't want to install new software you can also just edit the text file directly.
 
 When you're done editing the .po file you can [email it to me](mailto:c.f.curtis@gmail.com), or if you're comfortable using git feel free to upload it directly to [github]({{ site.github.repository_url }}). Don't worry about making mistakes - the beauty of version control is we can always go back and fix things.
 
@@ -36,7 +36,7 @@ Example: "Tiling with {} rows and {} columns"/"Carrelage avec {} lignes et {} co
 Above is an example of what you might see if you open a partially completed translation file with Poedit. You can click on each row to edit the corresponding translation, and the entries can be sorted from the "View" menu to show suspected errors or missing values first.
 
 ### Text editor
-You can edit the .po file directly in a text editor by right clicking the file, choosing "Open With", and selecting "Notepad":
+Poedit is the preferred editor for .po files, as it makes sure the formatting is correct. However, you can edit the .po file directly in a text editor by right clicking the file, choosing "Open With", and selecting "Notepad":
 
 ![open in notepad](/assets/images/09-translate-img2.png)
 

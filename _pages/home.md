@@ -16,8 +16,8 @@ excerpt: >
   <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.4.1</a></small>
 feature_row:
   - title: Latest News
-    excerpt: Version 0.4.1 has been released with updated translations.
-    url: "/updated-translations/"
+    excerpt: "PDFStitcher v0.5 beta is available for testing!"
+    url: "/v0.5-beta/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: <a href="/docs/video-tutorial/"><img src="/assets/images/tutorial.png" alt="video tutorial" /></a>

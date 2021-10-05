@@ -1,7 +1,7 @@
 ---
 permalink: /docs/translate
 title: "Translations"
-last_modified_at: 2021-08-27
+last_modified_at: 2021-10-04
 ---
 
 ## Overview
@@ -17,6 +17,8 @@ PDFStitcher will read your system language and display the correct translation a
 
 ## Editing an existing translation file
 The preferred way to edit translation files is [Poedit](https://poedit.net). This is a free and open source program; there are some Pro features available, but unless you are a frequent translator the free version does all you need.
+
+The .po files are located [here](https://github.com/cfcurtis/pdfstitcher/tree/main/locale). They are all named "pdfstitcher.po", but each is in a different subfolder according to the language (e.g. click on [fr_FR/LC_MESSAGES](https://github.com/cfcurtis/pdfstitcher/blob/main/locale/fr_FR/LC_MESSAGES/pdfstitcher.po) to find the French translation file).
 
 When you're done editing the .po file you can [email it to me](mailto:c.f.curtis@gmail.com), or if you're comfortable using git feel free to upload it directly to [github]({{ site.github.repository_url }}). Don't worry about making mistakes - the beauty of version control is we can always go back and fix things.
 

@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: <a href="/docs/video-tutorial/"><img src="/assets/images/tutorial.png" alt="video tutorial" /></a>
-    excerpt: "Video tutorials in English or German!"
+    excerpt: "Video tutorials in English, German and now Czech!"
     btn_class: ""
     btn_label: ""
   - title: <a href="/contribute/"><i class="fas fa-hands-helping fa-5x"></i></a>

@@ -13,3 +13,8 @@ Branalyn Dailey from [Dailey Sews & Stuff](https://www.youtube.com/c/DaileySewsS
 [Yvonne Tataika](https://www.youtube.com/channel/UCJPi78I1maXkCyQwkQc5CwQ) made a tutorial video in German. This was for v0.3 so it doesn't include the layers tab:
 
 {% include video id="y8n6bDsCMzk" provider="youtube" %}
+
+## Czech
+[Lucie Holá](https://www.facebook.com/groups/668336430797317/?ref=share) made a video tutorial in Czech using v0.5:
+
+{% include video id="nbwypkA1c0E" provider="youtube" %}

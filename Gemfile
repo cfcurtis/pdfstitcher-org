@@ -5,3 +5,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem "jekyll-github-metadata"
 gem "jekyll-redirect-from"
 gem 'jekyll-seo-tag'
+gem 'jekyll-target-blank'

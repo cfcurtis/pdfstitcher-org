@@ -1,10 +1,14 @@
 ---
-permalink: /docs/video-tutorial
-title: "Video Tutorials"
+permalink: /docs/tutorials
+redirect_from:
+  - /docs/video-tutorial
+title: "Tutorials"
 last_modified_at: 2021-04-11
 ---
 
 ## English
+Sheredith Hardy of [projectorsewing.com](https://projectorsewing.com) has created a [tutorial](https://projectorsewing.com/pdf-stitcher-tutorial/) for PDFStitcher with a description of the various panels and several examples.
+
 Branalyn Dailey from [Dailey Sews & Stuff](https://www.youtube.com/c/DaileySewsStuff) created a video tutorial for v0.4 of PDFStitcher:
 
 {% include video id="OyGQQi4WRRU" provider="youtube" %}

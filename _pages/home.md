@@ -13,16 +13,16 @@ header:
       url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/PDFStitcher-Installer.dmg"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
-  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.5</a></small>
+  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.5.2</a></small>
 feature_row:
   - title: News
-    excerpt: "*October 4, 2021*<br>
-    PDFStitcher v0.5 is out of beta"
-    url: "/v0.5-release/"
+    excerpt: "*New workflow, new release!*<br>
+    PDFStitcher v0.5.2 is now available"
+    url: "/new-workflow/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - title: <a href="/docs/video-tutorial/"><img src="/assets/images/tutorial.png" alt="video tutorial" /></a>
-    excerpt: "Video tutorials in English, German and now Czech!"
+  - title: <a href="/docs/tutorials/"><img src="/assets/images/tutorial.png" alt="tutorials" /></a>
+    excerpt: "Tutorials available in English, German and Czech!"
     btn_class: ""
     btn_label: ""
   - title: <a href="/contribute/"><i class="fas fa-hands-helping fa-5x"></i></a>

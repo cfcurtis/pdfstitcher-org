@@ -15,8 +15,8 @@ docs:
   children:
     - title: "Download"
       url: /docs/download
-    - title: "Video Tutorial"
-      url: /docs/video-tutorial
+    - title: "Tutorials"
+      url: /docs/tutorials
 - title: "Documentation"
   children:
     - title: "Program Overview"

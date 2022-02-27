@@ -13,11 +13,11 @@ header:
       url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/PDFStitcher-Installer.dmg"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
-  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.5.2</a></small>
+  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.5.3</a></small>
 feature_row:
   - title: News
     excerpt: "*New workflow, new release!*<br>
-    PDFStitcher v0.5.2 is now available"
+    PDFStitcher ~~v0.5.2~~ v0.5.3 is now available"
     url: "/new-workflow/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

@@ -22,14 +22,17 @@ $ pdfstitcher
 $ python3 -m pdfstitcher
 ```
 
+## February 27 Update!
+The new workflow is paying off already. An astute user noticed and reported a bug where PDFStitcher would retain previous trim values and produce odd results when trying out different values. I've hopefully fixed this bug and bumped the version to 0.5.3 - much easier now!
+
 ## Download
 With all that workflow stuff, there aren't too many changes to PDFStitcher itself - some new translations, improvements to the UI on high resolution displays, and the ability to open password-protected PDFs.
 
-Get the 0.5.2 release here:
+Get the ~~v0.5.2~~ v0.5.3 release here:
 
-[<i class='fas fa-download'></i> Download for Windows](https://github.com/cfcurtis/pdfstitcher/releases/download/v0.5/pdfstitcher.exe){: .btn .btn--primary }
+[<i class='fas fa-download'></i> Download for Windows](https://github.com/cfcurtis/pdfstitcher/releases/download/v0.5.3/pdfstitcher.exe){: .btn .btn--primary }
 
-[<i class='fas fa-download'></i> Download for Mac](https://github.com/cfcurtis/pdfstitcher/releases/download/v0.5/PDFStitcher-Installer.dmg){: .btn .btn--primary }
+[<i class='fas fa-download'></i> Download for Mac](https://github.com/cfcurtis/pdfstitcher/releases/download/v0.5.3/PDFStitcher-Installer.dmg){: .btn .btn--primary }
 
 You can report bugs through the [bug tracker](https://github.com/cfcurtis/pdfstitcher/issues), comment on the Facebook post in [Projectors for Sewing](https://www.facebook.com/groups/ProjectorsForSewing), leave a message on this post, or [email me](mailto:c.f.curtis@gmail.com) with feedback.
 

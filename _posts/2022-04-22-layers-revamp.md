@@ -3,7 +3,7 @@ title: "v0.6: Layers revamp"
 last_modified_at: 2022-04-22
 excerpt: "A quick overview of how layer processing works"
 toc: true
-release: 'v0.6'
+release: 'v0.6.1'
 ---
 
 The last few incremental releases have fixed some bugs while introducing others, and I realized it had come to that point in a programming project where I need to throw it all out and start over:
@@ -88,6 +88,8 @@ In short, this stuff is complicated. I just discovered that if an object is desc
 ## Download
 
 If you've gotten this far (or just clicked the link), go ahead and give it a shot! Since it was quite a big change to the source code, I'm bumping the version number up a notch, but that doesn't mean there aren't more bugs to be squashed.
+
+Edit: within hours, several people discovered that the macOS app wasn't behaving. Following the principles of [semantic versioning](https://semver.org/) as well as the rules of [PyPi](https://pypi.org/), v0.6 is quickly replaced by {{ page.release }}.
 
 [<i class='fas fa-download'></i> Download for Windows](https://github.com/cfcurtis/pdfstitcher/releases/download/{{ page.release }}/pdfstitcher.exe){: .btn .btn--primary }
 

@@ -17,7 +17,7 @@ excerpt: >
 feature_row:
   - title: News
     excerpt: "*Layers revamp and more*<br><br>
-    PDFStitcher v0.6 is now available!<br>
+    PDFStitcher ~~v0.6~~v0.6.1 is now available!<br>
     Also, a brief description of the inner workings of layer processing."
     url: "/layers-revamp/"
     btn_class: "btn--primary"

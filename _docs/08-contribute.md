@@ -18,7 +18,14 @@ This website, like the software, is in the early stages of development and could
 ## Programming
 If you'd like to tackle an [issue](https://github.com/cfcurtis/pdfstitcher/issues) yourself or add a new feature, feel free to checkout the code from [github](https://github.com/cfcurtis/pdfstitcher) and submit a pull request. If you're new to working with GitHub, you can read more about pull requests [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests).
 
-## Donate via PayPal
-You can also [buy me a coffee](https://www.paypal.com/donate?business=SUA34ZEE6H35G&item_name=Support+PDFStitcher&currency_code=CAD) to support ongoing development.
+## Donate
+I am no longer accepting PayPal donations, as PDFStitcher has become part of my scholarship work. However, if you'd really like to support some open source software that helps the sewing community, consider donating to following:
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?business=SUA34ZEE6H35G&item_name=Support+PDFStitcher&currency_code=CAD)
+- [The Python Software Foundation](https://psfmember.org/civicrm/contribute/transact?reset=1&id=2) is the programming language for PDFStitcher
+- [James Barlow](https://opencollective.com/james-barlow) is the maintainer of [pikepdf](https://github.com/pikepdf/pikepdf), the Python wrapper on QPDF that makes all of this possible
+- [Inkscape](https://inkscape.org/support-us/donate/) - nothing to do with PDFStitcher, but a great vector graphics editor
+
+I can't find donation links for the following, but I also depend on:
+- The aforementioned [qpdf](https://github.com/qpdf/qpdf)
+- [wxpython](https://www.wxpython.org/) - the graphical toolkit that makes PDFStitcher more user friendly than a command line!
+- [pyinstaller](https://www.pyinstaller.org/) - the tool that converts Python scripts into an executable 

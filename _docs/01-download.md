@@ -26,5 +26,30 @@ After downloading you can double click the .dmg and drag and drop pdfstitcher.ap
 
 ![mac installer dmg](/assets/images/mac-install.png)
 
+## Linux
+PDFStitcher is available on Flathub. 
+
+<a href='https://flathub.org/apps/details/com.github.cfcurtis.pdfstitcher'><img width='120' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/></a>
+
 ## Other
-Most people probably want to download the latest executable for Windows or Mac. However, if you want you can also download [previous releases](https://github.com/cfcurtis/pdfstitcher/releases) or checkout the [source code](https://github.com/cfcurtis/pdfstitcher).
+PDFStitcher can also be installed from [PyPi](https://pypi.org/project/pdfstitcher/) for Python 3.3-3.9 with the command:
+
+```
+pip install pdfstitcher
+```
+
+This will install pdfstitcher as a module and a script that can be launched with:
+
+```
+pdfstitcher
+```
+
+or 
+
+```
+python -m pdfstitcher
+```
+
+Note that this will not work with Python 3.10+ until wxPython is updated.
+
+Finally, you can also download [previous releases](https://github.com/cfcurtis/pdfstitcher/releases) or the [source code](https://github.com/cfcurtis/pdfstitcher) from GitHub.

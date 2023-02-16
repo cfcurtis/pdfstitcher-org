@@ -10,7 +10,7 @@ comments: true
 
 PDFStitcher was developed in late 2020 to help sewists convert print-at-home PDF sewing patterns into a single large file suitable for use with a projector. Just like printing and taping together a paper pattern, PDFStitcher takes the specified page range, amount to trim from each page, and number of rows or columns and assembles the pages together to form a complete pattern. 
 
-PDFStitcher is 100% free and open source software licensed under the [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) written in Python and bundled into executables for Windows and Mac.
+PDFStitcher is 100% free and open source software licensed under the [Mozilla Public License](https://www.mozilla.org/en-US/MPL/). It is written in Python and bundled into executables for Windows and Mac using [pyinstaller](https://www.pyinstaller.org/), as well as distributed for linux via [FlatPak](https://flatpak.org/). The source code is available on [GitHub]({{ site.github.repository_url }}).
 
 ## Acknowledgements
 

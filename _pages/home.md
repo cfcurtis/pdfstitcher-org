@@ -16,10 +16,9 @@ excerpt: >
   <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.7.1</a></small>
 feature_row:
   - title: News
-    excerpt: "*Layers revamp and more*<br><br>
-    PDFStitcher ~~v0.6~~v0.6.2 is now available!<br>
-    Also, a brief description of the inner workings of layer processing."
-    url: "/layers-revamp/"
+    excerpt: "*Test drive the new bug reporting system!*<br><br>
+    PDFStitcher v0.8 beta is now available!"
+    url: "/bug-reporting/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: <a href="/docs/tutorials/"><img src="/assets/images/tutorial.png" alt="tutorials" /></a>

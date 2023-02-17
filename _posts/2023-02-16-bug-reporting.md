@@ -3,7 +3,7 @@ title: "v0.8 now available for beta testing"
 last_modified_at: 2023-02-16
 excerpt: "New features for bug reporting, plus some bug fixes (of course)"
 toc: true
-release: 'v0.8b1'
+release: 'v0.8b2'
 ---
 
 As usual, I haven't updated either PDFStitcher or this site in far too long. Time to change both! I've got a new version available for beta testing, and I hope to be able to make it the official latest version soon. So, what took so long?

@@ -8,12 +8,16 @@ header:
   og_image: "assets/images/og_aspect_icon.png" 
   actions:
     - label: "<i class='fas fa-download'></i> Windows"
-      url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/pdfstitcher.exe"
-    - label: "<i class='fas fa-download'></i> Mac"
-      url: "https://github.com/cfcurtis/sewingutils/releases/latest/download/PDFStitcher-Installer.dmg"
+      url: "https://github.com/cfcurtis/pdfstitcher/releases/latest/download/pdfstitcher.exe"
+    - label: "<i class='fas fa-download'></i> Mac (Intel)"
+      url: "https://github.com/cfcurtis/pdfstitcher/releases/latest/download/PDFStitcher-InstallerX64.dmg"
+    - label: "<i class='fas fa-download'></i> Mac (M1/M2)"
+      url: "https://github.com/cfcurtis/pdfstitcher/releases/latest/download/PDFStitcher-InstallerARM64.dmg"
+    - label: "<img width='120' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/>"
+      url: "https://flathub.org/apps/details/com.github.cfcurtis.pdfstitcher"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
-  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.7.1</a></small>
+  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.8</a></small>
 feature_row:
   - title: News
     excerpt: "*Test drive the new bug reporting system!*<br><br>

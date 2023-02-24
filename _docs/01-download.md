@@ -18,7 +18,8 @@ After downloading pdfstitcher.exe, you can put it wherever you want - your deskt
 ![windows desktop icon](/assets/images/windows-desktop.png)
 
 ## macOS
-[<i class='fas fa-download'></i> Download for Mac]({{ site.latest-mac }}){: .btn .btn--primary }
+[<i class='fas fa-download'></i> Download for Mac (Intel)]({{ site.latest-mac-intel }}){: .btn .btn--primary }
+[<i class='fas fa-download'></i> Download for Mac (M1/M2)]({{ site.latest-mac-apple-silicon }}){: .btn .btn--primary }
 
 If you're using a Mac, PDFStitcher will only run on OS X Catalina (10.15) or newer. Additionally, you may get a warning that you are trying to open an app from an unidentified developer. Please see [this article](https://support.apple.com/guide/mac-help/mh40616) for instructions on how to override this warning.
 
@@ -32,7 +33,7 @@ PDFStitcher is available on Flathub.
 <a href='https://flathub.org/apps/details/com.github.cfcurtis.pdfstitcher'><img width='120' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/></a>
 
 ## Other
-PDFStitcher can also be installed from [PyPi](https://pypi.org/project/pdfstitcher/) for Python 3.3-3.9 with the command:
+PDFStitcher can also be installed from [PyPi](https://pypi.org/project/pdfstitcher/) for Python 3.6-3.10 with the command:
 
 ```
 pip install pdfstitcher
@@ -50,6 +51,6 @@ or
 python -m pdfstitcher
 ```
 
-Note that this will not work with Python 3.10+ until wxPython is updated.
+Note that this will not work with Python 3.11+ until wxPython is updated.
 
 Finally, you can also download [previous releases](https://github.com/cfcurtis/pdfstitcher/releases) or the [source code](https://github.com/cfcurtis/pdfstitcher) from GitHub.

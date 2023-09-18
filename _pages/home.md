@@ -19,10 +19,10 @@ excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
   <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.9.1</a></small>
 feature_row:
-  - title: News
-    excerpt: "*Test drive the new bug reporting system!*<br><br>
-    PDFStitcher v0.8 beta is now available!"
-    url: "/bug-reporting/"
+  - title: Known issue with macOS Ventura
+    excerpt: "If you have an Intel mac running macOS 13 (Ventura), there is an issue loading encrypted PDFs.<br> 
+    Click the button below to learn about a workaround or to help find a solution."
+    url: "/intel-mac-issue/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: <a href="/docs/tutorials/"><img src="/assets/images/tutorial.png" alt="tutorials" /></a>

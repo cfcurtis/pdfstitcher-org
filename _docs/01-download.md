@@ -21,7 +21,9 @@ After downloading pdfstitcher.exe, you can put it wherever you want - your deskt
 [<i class='fas fa-download'></i> Download for Mac (Intel)]({{ site.latest-mac-intel }}){: .btn .btn--primary }
 [<i class='fas fa-download'></i> Download for Mac (M1/M2)]({{ site.latest-mac-apple-silicon }}){: .btn .btn--primary }
 
-If you're using a Mac, PDFStitcher will only run on OS X Catalina (10.15) or newer. Additionally, you may get a warning that you are trying to open an app from an unidentified developer. Please see [this article](https://support.apple.com/guide/mac-help/mh40616) for instructions on how to override this warning.
+If you're using a Mac, PDFStitcher will only run on ~~OS X Catalina (10.15)~~ macOS 11 (Big Sur) or newer. The last release to support 10.15 was [v0.7.1](https://github.com/cfcurtis/pdfstitcher/releases/download/v0.7.1/PDFStitcher-Installer.dmg). 
+
+You will likely get a warning that you are trying to open an app from an unidentified developer and you won't be able to run it right away. Please see [this article](https://support.apple.com/guide/mac-help/mh40616) for instructions on how to override this warning.
 
 After downloading you can double click the .dmg and drag and drop pdfstitcher.app to your Applications folder (or again, it can really run from anywhere you want to put it). This is a new process as of v0.4 - older versions distribute the .app as a zip file.
 

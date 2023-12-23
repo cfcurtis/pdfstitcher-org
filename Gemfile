@@ -6,3 +6,5 @@ gem "jekyll-github-metadata"
 gem "jekyll-redirect-from"
 gem 'jekyll-seo-tag'
 gem 'jekyll-target-blank'
+gem "webrick", "~> 1.8"
+gem "google-protobuf"

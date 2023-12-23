@@ -1,10 +1,15 @@
 ---
 title: "Issue with Intel macOS"
-last_modified_at: 2023-09-17
-excerpt: "If you have an Intel mac running macOS 13 (Ventura), there is an issue loading encrypted PDFs."
+last_modified_at: 2023-12-23
+excerpt: "If you have an Intel mac running macOS 13 (Ventura) or higher, there was an issue loading encrypted PDFs."
 toc: true
 release: 'v0.9.1'
 ---
+
+## Update
+With the release of v0.9.2, the issue with Intel macs has been addressed through the highly sophisticated freezing of pikepdf at version 7.2.0. This is not an ideal solution, as it means that any bug fixes or new features in pikepdf will not propagate to PDFStitcher, but it addresses the larger issue for now.
+
+Thanks goes to GitHub users sihil, bilabar, and jbarlow83 for their sleuthing in [this issue](https://github.com/pikepdf/pikepdf/issues/520) and for bringing the discussion to my attention. Hopefully in the future we can figure out why openssl isn't being built in newer pikepdf wheels, but for now Intel mac users should be able to use PDFStitcher normally.
 
 ## The problem
 After updating PDFStitcher to handle large canvas files, I went through my usual process of bundling the Python code for various operating systems using PyInstaller on GitHub action runners. This time, I started getting reports from users with the following message:

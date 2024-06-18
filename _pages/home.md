@@ -17,12 +17,11 @@ header:
       url: "https://flathub.org/apps/details/com.github.cfcurtis.pdfstitcher"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
-  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v0.9.1</a></small>
+  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v1.0.1</a></small>
 feature_row:
-  - title: Known issue with macOS Ventura
-    excerpt: "If you have an Intel mac running macOS 13 (Ventura), there is an issue loading encrypted PDFs.<br> 
-    Click the button below to learn about a workaround or to help find a solution."
-    url: "/intel-mac-issue/"
+  - title: v1.0.1 Released!
+    excerpt: "I think it's finally stable enough to call it version 1.0. Read more to see what's changed, and what's coming next."
+    url: "/release-v1/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - title: <a href="/docs/tutorials/"><img src="/assets/images/tutorial.png" alt="tutorials" /></a>

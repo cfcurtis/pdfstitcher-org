@@ -32,7 +32,7 @@ After downloading you can double click the .dmg and drag and drop pdfstitcher.ap
 ## Linux
 PDFStitcher is available on Flathub. 
 
-<a href='https://flathub.org/apps/details/com.github.cfcurtis.pdfstitcher'><img width='120' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/></a>
+<a href='https://flathub.org/apps/org.pdfstitcher.pdfstitcher'><img width='120' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/></a>
 
 ## Other
 PDFStitcher can also be installed from [PyPi](https://pypi.org/project/pdfstitcher/) for Python 3.6-3.12 with the command:

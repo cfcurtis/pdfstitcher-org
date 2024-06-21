@@ -14,7 +14,7 @@ header:
     - label: "<i class='fas fa-download'></i> Mac (M1/M2)"
       url: "https://github.com/cfcurtis/pdfstitcher/releases/latest/download/PDFStitcher-InstallerARM64.dmg"
     - label: "<img width='120' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.svg'/>"
-      url: "https://flathub.org/apps/details/com.github.cfcurtis.pdfstitcher"
+      url: "https://flathub.org/apps/org.pdfstitcher.pdfstitcher"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
   <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v1.0.1</a></small>

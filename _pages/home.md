@@ -17,9 +17,9 @@ header:
       url: "https://flathub.org/apps/org.pdfstitcher.pdfstitcher"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
-  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v1.0.1</a></small>
+  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v1.0.2</a></small>
 feature_row:
-  - title: v1.0.1 Released!
+  - title: v1.0 Released!
     excerpt: "I think it's finally stable enough to call it version 1.0. Read more to see what's changed, and what's coming next."
     url: "/release-v1/"
     btn_class: "btn--primary"

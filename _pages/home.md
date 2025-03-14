@@ -17,7 +17,7 @@ header:
       url: "https://flathub.org/apps/org.pdfstitcher.pdfstitcher"
 excerpt: >
   The open source PDF stitching software for sewists, by sewists.<br />
-  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v1.0.4</a></small>
+  <small><a href="https://github.com/cfcurtis/pdfstitcher/releases/latest">Latest release: v1.1</a></small>
 feature_row:
   - title: v1.0 Released!
     excerpt: "I think it's finally stable enough to call it version 1.0. Read more to see what's changed, and what's coming next."
@@ -36,3 +36,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+<span style="font-size:0.8em;">Free code signing for Windows provided by <a href="https://about.signpath.io/">SignPath</a>, certificate by <a href="https://signpath.org/">SignPath Foundation</a>.</span>

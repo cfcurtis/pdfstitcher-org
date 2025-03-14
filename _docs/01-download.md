@@ -9,6 +9,8 @@ redirect_from:
 PDFStitcher is written in Python and bundled into executables for Windows and Mac. It does not need to be installed; just download and run.
 
 ## Windows
+Free code signing for Windows provided by [SignPath.io](https://about.signpath.io/), certificate by [SignPath Foundation](https://signpath.org/).
+
 [<i class='fas fa-download'></i> Download for Windows]({{ site.latest-windows }}){: .btn .btn--primary }
 
 PDFStitcher should run on Windows 7 or newer (64 bit). If your system blocks you from opening it, try [adding a security exclusion](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26) or [following these instructions](https://www.windowscentral.com/how-fix-app-has-been-blocked-your-protection-windows-10).

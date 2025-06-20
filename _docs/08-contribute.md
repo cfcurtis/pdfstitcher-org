@@ -28,4 +28,4 @@ I am no longer accepting PayPal donations, as PDFStitcher has become part of my 
 I can't find donation links for the following, but I also depend on:
 - The aforementioned [qpdf](https://github.com/qpdf/qpdf)
 - [wxpython](https://www.wxpython.org/) - the graphical toolkit that makes PDFStitcher more user friendly than a command line!
-- [pyinstaller](https://www.pyinstaller.org/) - the tool that converts Python scripts into an executable 
+- ~~[pyinstaller](https://www.pyinstaller.org/)~~ [nuitka](https://nuitka.net/) - the tool that converts Python scripts into an executable 

@@ -1,7 +1,7 @@
 ---
 permalink: /docs/contribute
 title: "Contribute to PDFStitcher"
-last_modified_at: 2021-04-04
+last_modified_at: 2025-06-20
 ---
 
 As a primarily one-person open source project, I am always looking for help improving PDFStitcher. There are a number of ways you can contribute:

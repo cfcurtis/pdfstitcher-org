@@ -3,7 +3,7 @@ permalink: /about
 title: "About PDFStitcher"
 excerpt: "About PDFStitcher"
 author_profile: true
-last_modified_at: 2021-04-04
+last_modified_at: 2025-06-20
 toc: false
 comments: true
 ---
